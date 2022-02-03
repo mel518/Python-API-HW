@@ -1,7 +1,2 @@
-# OpenWeatherMap API Key
-weather_api_key = "77275b74923156fb320cd00db2a0caf2"
-
-# Google API Key
-g_key = "AIzaSyDnG-MRc4veUryHmZwrSP9sgrPbbOyod9w"
-
-
+.DS_Store
+api_keys.py
